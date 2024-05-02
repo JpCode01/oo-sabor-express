@@ -4,7 +4,7 @@
 <img loading="lazy" src="https://img.shields.io/badge/STATUS-FINALIZADO-GRAY?style=for-the-badge"/>
 </p>
 
-<p style="font-size: 15;">  Esse projeto é referente a uma simulação de uma plataforma que possibilita o cadastro e a listagem de restaurantes. Foi desenvolvido a partir do paradigma da programação orientada a objetos e dos conhecimentos gerados pela plataforma Alura.
+<p style="font-size: 15;">  Esse projeto é referente a uma simulação de uma plataforma que possibilita a adição de elementos no cardápio e a listagem dos restaurantes. Foi desenvolvido a partir do paradigma da programação orientada a objetos e dos conhecimentos gerados pela plataforma Alura.
 </p>
 
 ## 🔨 Funcionalidades do projeto
